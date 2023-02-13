@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Start your development with Steller landing page.">
+    <meta name="author" content="Devcrud">
+    <title>Makani  Website </title>
+    <!-- font icons -->
+    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+    <
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+
+    <!-- Page navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" data-spy="affix" data-offset-top="0">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="assets/imgs/Makani.png" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto align-items-center">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#blog">Latest News</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#testmonial">Project Teams</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href=".html">MY ITEMS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://blynk.io">LOCATION</a>
+                    <li class="nav-item">
+                        <a class="- btn btn-primary rounded ml-4" href="SignIn.html">Sign In</a>
+                    </li>
+                </ul>
+            </div>
+        </div>          
+    </nav>
+    <!-- End of page navibation -->
+
+    <!-- Page Header -->
+    <header class="header" id="home">
+        <div class="container">
+            <div class="infos">
+               <div class="image" ><img src="assets/imgs/Makani.png" width="95" height="95"alt=""></p>
+                </div>
+                <h6 class="title">Makani</h6>
+                <p>SEE WHERE YOUR LOVED ONE ARE</p>
+
+            
+
+                <div class="socials mt-4">
+                    <a class="social-item" href="https://www.facebook.com"><i class="ti-facebook"></i></a>
+                    <a class="social-item" href="https://www.google.ae"><i class="ti-google"></i></a>
+                    <a class="social-item" href="https://twitter.com"><i class="ti-twitter"></i></a>
+                </div>
+            </div>              
+            <div class="img-holder">
+                <img src="assets/imgs/children.png" alt="" >
+            </div>      
+        </div>  
+
+        <!-- Header-widget -->
+        <div class="widget">
+            <div class="widget-item">
+                <h2>0</h2>
+                <p> Review</p>
+            </div>
+            <div class="widget-item">
+                <h2>0</h2>
+                <p>Find Object </p>
+            </div>
+            <div class="widget-item">
+                <h2>0</h2>
+                <p>New user</p>
+            </div>
+        </div>
+    </header>
+    <!-- End of Page Header -->
+    <!-- About section -->
+
+    <section id="about" class="section mt-3">
+        <div class="container mt-5">
+            <div class="row text-center text-md-left">
+                <div class="col-md-3">
+                    <img src="assets/imgs/MK Device.png" alt="" class="img-thumbnail mb-4">
+                </div>
+                <div class="pl-md-4 col-md-9">
+                    <h6 class="title">MK Device</h6>
+                    <p class="subtitle">Smart Tracking Tool</p>
+                    The main objective of the project is to help find object. We propose a tool with the name "Makani". 
+                    That is independent operating system.One of the most important features is tracking the object.
+                     All of them are characterized by free services and ease of use.</p>          
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Latest News Section -->
+    <section id="blog" class="section">
+        <div class="container text-center">
+            <h6 class="subtitle"></h6>
+            <h6 class="section-title mb-4">Latest News  </h6>
+            <p class="mb-5 pb-4">for Missing</p>
+
+            <div class="row text-left">
+                <div class="col-md-4">
+                    <div class="card border mb-4">
+                        <img src="assets/imgs/ATAN.jpg" alt="" class="card-img-top w-100">
+                        <div class="card-body">
+                            <h5 class="card-title">LETAN PATZ</h5>
+                            <div class="post-details">
+                                <a href="javascript:void(0)">Posted By: Admin</a>
+                                <a href="javascript:void(0)"><i class="ti-thumb-up"></i> 456</a>
+                                <a href="javascript:void(0)"><i class="ti-comment"></i> 123</a>
+                            </div>
+                            <p>
+                                Missing Since Friday May 25th, 1979. Last seen 8 a.m., at Prince St. & West B'way.
+                                DESCRIPTION:
+                                Date of Birth: October 9, 1972. Male,white .6 years. Height: 40 Inches Weight: 50 lbs.
+                                Blond Hair, Blue Eyes, Wearing Black Pilot Type Cap,
+                                Blue Corduroy Jacket, Blue Pants, Blue Sneakers with
+                                Fluorescent Stripes.</p>
+                            <a href="https://www.npr.org/2012/05/24/153623769/the-face-that-changed-the-search-for-missing-kids">Read More..</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card border mb-4">
+                        <img src="assets/imgs/roberta.jpg" alt="" class="card-img-top w-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Web Layouts</h5>
+                            <div class="post-details">
+                                <a href="javascript:void(0)">Posted By: Admin</a>
+                                <a href="javascript:void(0)"><i class="ti-thumb-up"></i> 456</a>
+                                <a href="javascript:void(0)"><i class="ti-comment"></i> 123</a>
+                            </div>
+                            <p>  Woman with dementia has been missing for a week and a half and now a big reward is being offered to help find her. 
+                                The family of Roberta  has a $25,000 reward for anyone who finds her.  
+                                The 80-year-old was last seen by family on May 1 leaving a house in south Phoenix.</p>
+                            <a href="https://www.azfamily.com/2022/05/12/25000-reward-offered-missing-phoenix-woman-with-dementia/">Read More..</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card border mb-4">
+                        <img src="assets/imgs/Dog.jpg" alt="" class="card-img-top w-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Chameli</h5>
+                            <div class="post-details">
+                                <a href="javascript:void(0)">Posted By: Admin</a>
+                                <a href="javascript:void(0)"><i class="ti-thumb-up"></i> 456</a>
+                                <a href="javascript:void(0)"><i class="ti-comment"></i> 123</a>
+                            </div>
+                            <p>New Delhi: Chameli, a 13-year-old dog went missing last month and in a desperate attempt to find her, 
+                                the Delhi based owners have announced a reward of Rs 25,000 for whoever finds the dog and reunites her with their family.</p>
+                            <a href="https://www.india.com/viral/new-delhi-civil-lines-kejriwal-house-13-year-old-dog-missing-for-a-month-owner-pitches-rs-25000-reward-in-desperate-attempt-to-find-her-5763033/">Read More..</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+      <!-- Testmonial Section -->
+      <section id="testmonial" class="section">
+        <div class="container text-center">
+            
+            <h6 class="section-title mb-4">Project Teams</h6>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="card testmonial-card border">
+                            <div class="card-body">
+                                <img src="assets/imgs/person.jpg" alt="">
+                                <p>University of Jeddah </p>
+                                <h1 class="title">Waad Obaidallah Al-Qurayqiri </h1>
+                                <h1 class="subtitle">Student</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card testmonial-card border">
+                            <div class="card-body">
+                                <img src="assets/imgs/person.jpg" alt="">
+                                <p>University of Jeddah </p>
+                                <h1 class="title">Lama Awad Al- Sulami</h1>
+                                <h1 class="subtitle">Student</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card testmonial-card border">
+                            <div class="card-body">
+                                <img src="assets/imgs/person.jpg" alt="">
+                                <p>University of Jeddah </p>
+                                <h1 class="title">Raghad Adel Almehmadi </h1>
+                                <h1 class="subtitle">Student</h1>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card testmonial-card border">
+                            <div class="card-body">
+                                <img src="assets/imgs/person.jpg" alt="">
+                                <p>University of Jeddah </p>
+                                <h1 class="title">Dalia Abdullah Al-Shehri</h1>
+                                <h1 class="subtitle">Student</h1>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End of testmonial section -->
+
+   
+
+    <!-- Contact Section -->
+    <section id="contact" class="position-relative section">
+        <div class="container text-center">
+            <h6 class="subtitle">Contact</h6>
+            <h6 class="section-title mb-4">Contact Makani</h6>
+            <p class="mb-5 pb-4">Contact Makani to learn more about our tracking tools and services.</p>
+
+            <div class="contact text-left">
+                <div class="form">
+                    <h6 class="subtitle">Available 24/7</h6>
+                    <h6 class="section-title mb-4">Contact Makani</h6>
+                    <form>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea name="contact-message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block rounded w-lg">Send Message</button>
+                    </form>
+                </div>
+                <div class="contact-infos">
+                    <div class="item">
+                        <i class="ti-location-pin"></i>
+                        <div class="">
+                            <h5>Location</h5>
+                            <p> 22230 Jeddah</p>
+                        </div>                          
+                    </div>
+                    <div class="item">
+                        <i class="ti-mobile"></i>
+                        <div>
+                            <h5>Phone Number</h5>
+                            <p>0596686069</p>
+                        </div>                          
+                    </div>
+                    <div class="item">
+                        <i class="ti-email"></i>
+                        <div class="mb-0">
+                            <h5>Email Address</h5>
+                            <p><a href="mailto: mkdevice330@gmail.com"> Makani@gmail.com</p>
+                        </div>
+                    </div>
+                </div>                  
+            </div>
+        </div>  
+        <div id="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19275.33799151429!2d39.140107096227815!3d21.609503127898183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xe059579737b118db!2z2KzYr9ip!5e0!3m2!1sar!2ssa!4v1675956641344!5m2!1sar!2ssa" width="1400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        </div>      
+    </section>
+    <!-- End of Contact Section -->
+
+    <!-- Page Footer -->
+    <footer class="page-footer">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-6">
+                    <p>Graduation Project: <a href="#home" target="_blank">Makani Website </a></p>
+                </div>
+                <div class="col-sm-6">
+                    <div class="socials">
+                    <a class="social-item" href="https://www.facebook.com"><i class="ti-facebook"></i></a>
+                    <a class="social-item" href="https://www.google.ae"><i class="ti-google"></i></a>
+                    <a class="social-item" href="https://twitter.com"><i class="ti-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer> 
+    <!-- End of page footer -->
+	
+	<!-- core  -->
+    <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="assets/vendors/bootstrap/bootstrap.bundle.js"></script>
+    <!-- bootstrap 3 affix -->
+	<script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- steller js -->
+    <script src="assets/js/steller.js"></script>
+
+</body>
+</html>
