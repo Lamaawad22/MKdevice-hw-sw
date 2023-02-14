@@ -1,6 +1,6 @@
 
 // We use NodeMCU,OLED, and GPS module NEO-M8M
-// the project will show QR that include important info about the patient.
+// the project will show QR that include important info about the kids.
 // and send GPS coordinates to the server (Blynk IOT)
 
 
